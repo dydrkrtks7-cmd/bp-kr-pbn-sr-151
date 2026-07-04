@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://dydrkrtks7-cmd.github.io/bp-kr-pbn-sr-151/sitemap.xml
