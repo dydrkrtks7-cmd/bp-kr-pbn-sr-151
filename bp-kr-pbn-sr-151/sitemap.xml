@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jamsil-pub-info.pbn-builder.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,18 +21,6 @@
   <url>
     <loc>https://jamsil-pub-info.pbn-builder.xyz/posts/compare-002-1gqox9z.html</loc>
     <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jamsil-pub-info.pbn-builder.xyz/posts/interview-002-1oazlcq.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jamsil-pub-info.pbn-builder.xyz/posts/myth-001-1oazlcq.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
